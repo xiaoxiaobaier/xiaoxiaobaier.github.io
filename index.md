@@ -110,12 +110,12 @@
 
 <meta name="description" content="Easy Lippi">
 <meta property="og:type" content="website">
-<meta property="og:title" content="EZLippi-浮生志">
+<meta property="og:title" content="测试博客">
 <meta property="og:url" content="http://www.ezlippi.com/index.html">
-<meta property="og:site_name" content="EZLippi-浮生志">
+<meta property="og:site_name" content="测试博客">
 <meta property="og:description" content="Easy Lippi">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="EZLippi-浮生志">
+<meta name="twitter:title" content="测试博客">
 <meta name="twitter:description" content="Easy Lippi">
 
 
@@ -144,7 +144,7 @@
 
 
 
-  <link rel="canonical" href="http://www.ezlippi.com/"/>
+  <link rel="canonical" href="http://www.xiaoxinxin.xyz/"/>
 
 
 
@@ -175,7 +175,7 @@
   </script>
 
 
-  <title> EZLippi-浮生志 </title>
+  <title> 测试博客 </title>
 </head>
 
   	 <!-- custom analytics part create by xiamo -->
@@ -301,7 +301,7 @@ $(function() {
   <div class="custom-logo-site-title">
     <a href="/"  class="brand" rel="start">
       <span class="logo-line-before"><i></i></span>
-      <span class="site-title">EZLippi-浮生志</span>
+      <span class="site-title">测试博客</span>
       <span class="logo-line-after"><i></i></span>
     </a>
   </div>
@@ -435,9 +435,9 @@ $(function() {
   </span>
 
   <span style="display:none" itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-    <meta itemprop="name" content="EZLippi-浮生志">
+    <meta itemprop="name" content="测试博客">
     <span style="display:none" itemprop="logo" itemscope itemtype="http://schema.org/ImageObject">
-      <img style="display:none;" itemprop="url image" alt="EZLippi-浮生志" src="/images/avatar.jpg">
+      <img style="display:none;" itemprop="url image" alt="测试博客" src="/images/avatar.jpg">
     </span>
   </span>
 
@@ -632,9 +632,9 @@ $(function() {
   </span>
 
   <span style="display:none" itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-    <meta itemprop="name" content="EZLippi-浮生志">
+    <meta itemprop="name" content="测试博客">
     <span style="display:none" itemprop="logo" itemscope itemtype="http://schema.org/ImageObject">
-      <img style="display:none;" itemprop="url image" alt="EZLippi-浮生志" src="/images/avatar.jpg">
+      <img style="display:none;" itemprop="url image" alt="测试博客" src="/images/avatar.jpg">
     </span>
   </span>
 
@@ -829,9 +829,9 @@ $(function() {
   </span>
 
   <span style="display:none" itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-    <meta itemprop="name" content="EZLippi-浮生志">
+    <meta itemprop="name" content="测试博客">
     <span style="display:none" itemprop="logo" itemscope itemtype="http://schema.org/ImageObject">
-      <img style="display:none;" itemprop="url image" alt="EZLippi-浮生志" src="/images/avatar.jpg">
+      <img style="display:none;" itemprop="url image" alt="测试博客" src="/images/avatar.jpg">
     </span>
   </span>
 
@@ -1026,9 +1026,9 @@ $(function() {
   </span>
 
   <span style="display:none" itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-    <meta itemprop="name" content="EZLippi-浮生志">
+    <meta itemprop="name" content="测试博客">
     <span style="display:none" itemprop="logo" itemscope itemtype="http://schema.org/ImageObject">
-      <img style="display:none;" itemprop="url image" alt="EZLippi-浮生志" src="/images/avatar.jpg">
+      <img style="display:none;" itemprop="url image" alt="测试博客" src="/images/avatar.jpg">
     </span>
   </span>
 
