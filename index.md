@@ -96,7 +96,7 @@
 
 
 
-  <link rel="alternate" href="/atom.xml" title="EZLippi-浮生志" type="application/atom+xml" />
+  <link rel="alternate" href="/atom.xml" title="测试博客" type="application/atom+xml" />
 
 
 
